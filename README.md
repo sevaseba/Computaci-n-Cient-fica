@@ -1,2 +1,2 @@
-# Computaci-n-Cient-fica
+# Computación-Científica
 Tareas del curso Computación Científica 
